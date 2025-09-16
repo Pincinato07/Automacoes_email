@@ -1,0 +1,26 @@
+tipo,assunto,corpo
+COPILOT,Já pensou em ter um Copilot treinado nos processos da sua empresa?,"Olá {primeiro_nome}, tudo certo?
+
+O Copilot, da Microsoft, roda com a base do GPT, mas com uma arquitetura preparada para uso corporativo: identidade integrada, controle de acesso, compliance e segurança de dados, tudo dentro do seu ambiente Microsoft.
+
+Ou seja: dá pra usar IA generativa com confiança.
+
+A questão é que quase ninguém explora o que realmente importa: os agentes personalizados.
+
+Na prática, isso significa criar copilots que entendem os seus processos, acessam seus dados e atuam diretamente nas rotinas da empresa, com rastreabilidade, contexto e segurança.
+
+A Solaris ajuda empresas a:
+
+Criar copilots específicos para cada área (compras, RH, atendimento, etc.)
+
+Conectar com sistemas como Protheus, Sharepoint, SQL e ferramentas internas
+
+Automatizar tarefas e consultas com governança e controle de permissões
+
+Reduzir tempo operacional em processos repetitivos e de baixo valor
+
+Não se trata de “testar IA”, e sim de integrar IA com propósito.
+
+Se fizer sentido, posso te mostrar alguns casos reais ou até desenhar um agente de exemplo com base na sua operação.
+
+Fico à disposição."
